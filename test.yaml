@@ -1,0 +1,14 @@
+HostName: host name  #Create a meaningful team name
+
+ApiKey: authentication key.
+
+EndPoint: /api/xyz.
+
+Method : GET
+
+Data : "{test json}"
+  
+Headers:
+   Header1: header 1
+   Header2: header 2
+
