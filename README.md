@@ -3,6 +3,7 @@
 
 ### Installation ##
 Requires go - https://golang.org/doc/install
+
 go get gopkg.in/yaml.v2
 
 ## Usage
